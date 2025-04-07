@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote  name="alternoegraha"
-		fetch="https://github.com/alternoegraha" />
-<remote  name="LineageOS"
-		fetch="https://github.com/LineageOS/android_hardware_xiaomi" />
+
+
+<remote  name="andriod"
+		fetch="https://github.com/ProjectMatrixx/">
+<remote  name="android_device_google_bramble"
+		fetch="https://github.com/zahidmgsk/">
 
 	<!-- Sync trees -->
-	<project path="device/xiaomi/fog" name="alternoegraha/device_xiaomi_fog" remote="github" revision="fifteen" />
-	<project path="vendor/xiaomi/fog" name="alternoegraha/vendor_xiaomi_fog" remote="github" revision="fouteen" />
-	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-22.1" />
-	<project path="kernel/xiaomi/fog" name="alternoegraha/fog_kernel_xiaomi_sm6225" remote="alternoegraha" revision="fog-new" />
+	<project path="Los22.1" name="ProjectMatrixx/android" remote="github" revision="14.0" />
+
+	<project path="device/google/bramble" name="zahidmgsk/android_device_google_bramble" remote="github" revision="14.0" />
 	
 </manifest>
