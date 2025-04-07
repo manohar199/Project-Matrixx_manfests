@@ -8,6 +8,6 @@
 	<!-- Sync trees -->
 	
 
-	<project path=device/google/bramble" name=android_device_google_bramble" remote="zahidmgsk" revision="14.0" />
+	<project path=device/google/bramble" name=android_device_google_bramble" remote="zahidmgsk" revision="lineage-21" />
 	
 </manifest>
