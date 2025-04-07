@@ -3,7 +3,7 @@
 
 
 
-<remote  name="zahidmgsk" fetch="https://github.com/zahidmgsk/android_device_google_bramble">
+<remote  name="zahidmgsk" fetch="https://github.com/zahidmgsk/">
 
 	<!-- Sync trees -->
 	
