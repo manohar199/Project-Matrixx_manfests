@@ -5,6 +5,6 @@
 	<!-- Sync trees -->
 	
 
-	<project path=device/google/bramble" name="zahidmgsk/android_device_google_bramble" remote="github" revision="lineage-21" />
+	<project path=device/google/bramble" name="LineageOS/android_device_google_bramble" remote="github" revision="lineage-21" />
 
 </manifest>
