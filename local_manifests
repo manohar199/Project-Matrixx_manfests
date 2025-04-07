@@ -8,8 +8,8 @@
 		fetch="https://github.com/zahidmgsk/android_device_google_bramble">
 
 	<!-- Sync trees -->
-	<project path="LOS22.1" name="ProjectMatrixx/android" remote=ProjectMatrixx revision="14.0" />
+	<project path="LOS22.1/" name="ProjectMatrixx/android" remote=ProjectMatrixx revision="14.0" />
 
-	<project path="device/google/bramble" name="zahidmgsk/android_device_google_bramble" remote="zahidmgsk" revision="14.0" />
+	<project path="LOS22.1/device/google/bramble" name="zahidmgsk/android_device_google_bramble" remote="zahidmgsk" revision="14.0" />
 	
 </manifest>
