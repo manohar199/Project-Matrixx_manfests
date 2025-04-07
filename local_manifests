@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-
-
-<remote  name="zahidmgsk" fetch="https://github.com/zahidmgsk/">
+	
 
 	<!-- Sync trees -->
 	
 
-	<project path=device/google/bramble" name=android_device_google_bramble" remote="zahidmgsk" revision="lineage-21" />
-	
+	<project path=device/google/bramble" name="zahidmgsk/android_device_google_bramble" remote="github" revision="lineage-21" />
+
 </manifest>
