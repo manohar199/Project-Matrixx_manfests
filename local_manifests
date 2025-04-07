@@ -3,12 +3,11 @@
 
 
 
-<remote  name="zahidmgsk"
-		fetch="https://github.com/zahidmgsk/android_device_google_bramble">
+<remote  name="zahidmgsk" fetch="https://github.com/zahidmgsk/android_device_google_bramble">
 
 	<!-- Sync trees -->
 	
 
-	<project path=device/google/bramble" name="zahidmgsk/android_device_google_bramble" remote="zahidmgsk" revision="14.0" />
+	<project path=device/google/bramble" name=android_device_google_bramble" remote="zahidmgsk" revision="14.0" />
 	
 </manifest>
