@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="manohar199/android_device_google_bramble" path="device/google/bramble" remote="github" revision="lineage-21" />
-  
+  <project name="manohar199/android_device_google_redbull" path="device/google/redbull" remote="github" revision="14.0" />
+  <project name="manohar199/LineageOS-kernel_google_redbull" path="kernel/google/redbull" remote="github" revision="lineage-21" />
+  <project name="manohar199/TheMuppets_vendor_google_bramble" path="vendor/google/bramble" remote="github" revision="lineage-21" />
 </manifest>
