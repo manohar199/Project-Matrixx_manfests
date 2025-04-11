@@ -6,8 +6,8 @@
   <default remote="aosp" revision="refs/heads/android11-d1-b-release" />
   <project name="device/google/bramble-kernel" path="device/google/bramble-kernel" />
   <project name="device/google/bramble" path="device/google/bramble" />
-   <project name="device/google/bramble-sepolicy"  path="device/google/bramble-sepolicy"  remote="aosp"  revision="refs/tags/android-vts-14.0_r7" />
-   <project name="proprietary_vendor_google_bramble" path="vendor/google/bramble" remote="github" revision="lineage-22.1">
+  <project name="device/google/bramble-sepolicy"  path="device/google/bramble-sepolicy"  remote="aosp"  revision="refs/tags/android-vts-14.0_r7" />
+  <project name="proprietary_vendor_google_bramble" path="vendor/google/bramble" remote="github" revision="lineage-22.1">
     <!-- Additional projects and configurations can be added here -->
 </manifest>
   
