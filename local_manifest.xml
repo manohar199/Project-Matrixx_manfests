@@ -8,9 +8,6 @@
   <project name="device/google/bramble" path="device/google/bramble" />
    <project name="device/google/bramble-sepolicy"  path="device/google/bramble-sepolicy"  remote="aosp"  revision="refs/tags/android-vts-14.0_r7" />
    <project name="proprietary_vendor_google_bramble" path="vendor/google/bramble" remote="github" revision="lineage-22.1">
-        <fetch name="github" type="git" uri="https://github.com/TheMuppets/proprietary_vendor_google_bramble.git" />
-   </project>
-
-  <!-- Additional projects and configurations can be added here -->
+    <!-- Additional projects and configurations can be added here -->
 </manifest>
   
