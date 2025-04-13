@@ -1,15 +1,12 @@
-
-  <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="themuppets" fetch="https://github.com/TheMuppets" />
-    
   <remote name="lineage" fetch="https://github.com/LineageOS/" />
-
-  <project path="device/google/bramble" name="android_device_google_bramble" remote="lineage" revision="lineage-22.1" />
-  <project path="device/google/redbull" name="android_device_google_redbull" remote="lineage" revision="lineage-22.1" />
-  <project path="kernel/google/redbull" name="android_kernel_google_redbull" remote="lineage" revision="lineage-22.1" />
-  <project path="vendor/google/bramble" name="proprietary_vendor_google_bramble" remote="themuppets" revision="lineage-22.1" />
-    
-
-</manifest>
   
+  <default remote="lineage" revision="lineage-22.1" />
+  
+  <project path="device/google/bramble" name="android_device_google_bramble" />
+  <project path="device/google/redbull" name="android_device_google_redbull" />
+  <project path="kernel/google/redbull" name="android_kernel_google_redbull" />
+  <project path="vendor/google/bramble" name="proprietary_vendor_google_bramble" remote="themuppets" />
+</manifest>
